@@ -1,0 +1,8 @@
+{
+  "name": "asset",
+  "version": "1.0.0",
+  "description": "a place to store all hard data like image, icon, gif...",
+  "main": "index.js",
+  "author": "ntk",
+  "license": "MIT"
+}

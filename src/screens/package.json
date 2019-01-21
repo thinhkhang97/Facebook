@@ -1,0 +1,8 @@
+{
+  "name": "screens",
+  "version": "1.0.0",
+  "description": "All screens use for my app",
+  "main": "index.js",
+  "author": "ntk",
+  "license": "MIT"
+}
